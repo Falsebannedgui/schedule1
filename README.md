@@ -1,2 +1,3 @@
-# schedule1
-a teaching module mod for schedule 1
+# schedule1 module mod
+ please dont modify this 
+run this directly thru the application thank you
